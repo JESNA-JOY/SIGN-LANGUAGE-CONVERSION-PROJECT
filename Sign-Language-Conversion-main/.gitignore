@@ -1,0 +1,9 @@
+asl-recog-venv
+__pycache__
+.mypy_cache
+img_backup
+img_data
+gloss_transformer
+test_img
+*.zipd
+.vscode
